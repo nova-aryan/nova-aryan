@@ -1,6 +1,6 @@
 <!-- Banner -->
 <h1 align="center">Hey 👋, I'm Aryan Jaiswal</h1>
-<h3 align="center">Youngest OSCP+ Certified Ethical Hacker | Bug Bounty Hunter | CTF Player | Cybersecurity Researcher</h3>
+<h3 align="center">Ethical Hacker | Bug Bounty Hunter | CTF Player | Cybersecurity Researcher</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Cybersecurity+Wizard;OSCP%2B+Certified+at+16;Hall+of+Fame+%40+NASA%2C+Sony%2C+Philips;Reverse+Engineer+%7C+CTF+Player+%7C+Content+Creator" alt="Typing SVG" />
