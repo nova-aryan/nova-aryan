@@ -11,7 +11,7 @@
 ## About Me
 
 - I’m **Aryan Jaiswal**, 16 y/o cybersecurity enthusiast from India 🇮🇳  
-- Youngest to crack **OSCP+** — I started cybersecurity in **7th grade**  
+- Youngest to crack **OSCP+** — I started cybersecurity in **7th Class**  
 - Found bugs in **50+ companies** including **NASA**, **Philips**, **Sony**, **Quick Heal**  
 - Currently learning: **Web Security**, **Reverse Engineering**, and **Malware Development**  
 
