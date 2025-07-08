@@ -1,68 +1,98 @@
 <!-- Banner -->
-<h1 align="center">Hey 👋, I'm Aryan Jaiswal</h1>
-<h3 align="center">Ethical Hacker | Bug Bounty Hunter | CTF Player | Cybersecurity Researcher</h3>
+<div align="center">
+  <h1 align="center">Hey 👋, I'm Aryan Jaiswal</h1>
+  <h3 align="center">Ethical Hacker | Bug Bounty Hunter | CTF Player | Cybersecurity Researcher</h3>
+</div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Cybersecurity+Wizard;OSCP%2B+Certified+at+16;Hall+of+Fame+%40+NASA%2C+Sony%2C+Philips;Reverse+Engineering;CTF+Player+%7C+Content+Creator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=33FF33¢er=true&vCenter=true&width=500&lines=Ethical+Hacker+%7C+Bug+Bounty+Hunter;OSCP%2B+%7C+HTB+CBBH+%7C+THM+PT1+Certified;Hall+of+Fame+%40+NASA%2C+Sony%2C+Philips%2B;Currently+preparing+for+BSCP;Reverse+Engineering+%26+Malware+Dev" alt="Typing SVG" />
 </p>
 
----
+<!-- Socials -->
+<p align="center">
+  <a href="https://linkedin.com/in/aryan-jaiswal-57b42a218"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://twitter.com/aryan351985"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="https://tryhackme.com/p/NovA"><img src="https://img.shields.io/badge/TryHackMe-88CC14?style=for-the-badge&logo=tryhackme&logoColor=white"></a>
+  <a href="mailto:aryan351985@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
 
-## About Me
+<!-- About Me -->
+## 🛡️ About Me
 
-- I’m **Aryan Jaiswal**, 16 y/o cybersecurity enthusiast from India 🇮🇳  
-- Youngest to crack **OSCP+** — I started cybersecurity in **7th Class**  
-- Found bugs in **50+ companies** including **NASA**, **Philips**, **Sony**, **Quick Heal**  
-- Currently learning: **Web Security**, **Reverse Engineering**, and **Malware Development**  
+A 16-year-old Cybersecurity enthusiast from India 🇮🇳 with a passion for breaking code and building secure systems. I started my journey in 7th grade and haven't looked back since.
 
----
-
-## Skills & Tools
-
-### Languages & Scripting
-![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=C)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnubash)
-
-### Cybersecurity Tools
-![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-ff5722?style=flat&logo=burpsuite)
-![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat&logo=wireshark)
-![Nmap](https://img.shields.io/badge/-Nmap-4682B4?style=flat)
-![Metasploit](https://img.shields.io/badge/-Metasploit-000000?style=flat)
-
-### Platforms I Use
-![HackTheBox](https://img.shields.io/badge/-HackTheBox-9FEF00?style=flat&logo=hackthebox)
-![TryHackMe](https://img.shields.io/badge/-TryHackMe-212C42?style=flat&logo=tryhackme)
-![PortSwigger](https://img.shields.io/badge/-PortSwigger-orange?style=flat)
+- 🚀 **Key Milestones:** Cracked the **OSCP+** at 16 & found vulnerabilities in **50+ companies**, including NASA, Sony, and Philips.
+- 🎯 **Current Mission:** Deepening my expertise in **Reverse Engineering** and **Malware Development**.
+- 📚 **Next Goal:** Currently preparing for the **Burp Suite Certified Practitioner (BSCP)** exam.
 
 ---
 
-## GitHub Stats
+<!-- Certifications -->
+<div align="center">
+  <h2>🏆 Certifications 🏆</h2>
+  <p>
+    <strong>OSCP+ | HTB Certified Bug Bounty Hunter | THM Pentest+</strong>
+  </p>
+</div>
+
+---
+
+<!-- Skills -->
+## 💻 Skills & Expertise
+
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <h3>Offensive Security</h3>
+      <ul>
+        <li>Web Application Pentesting</li>
+        <li>Network Penetration Testing</li>
+        <li>Reverse Engineering</li>
+        <li>Bug Bounty Hunting</li>
+        <li>CTF Challenges</li>
+      </ul>
+    </td>
+    <td valign="top" width="33%">
+      <h3>Languages & Scripting</h3>
+      <ul>
+        <li>Python</li>
+        <li>Bash</li>
+        <li>C/C++</li>
+        <li>Assembly (x86)</li>
+      </ul>
+    </td>
+    <td valign="top" width="33%">
+      <h3>Tools & Platforms</h3>
+      <ul>
+        <li>Burp Suite, Wireshark</li>
+        <li>Nmap, Metasploit</li>
+        <li>Ghidra, IDA Pro</li>
+        <li>HackTheBox, TryHackMe</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+<!-- GitHub Stats -->
+## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aryanjaiswal&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aryanjaiswal&show_icons=true&theme=radical&rank_icon=github" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aryanjaiswal&theme=radical" />
 </p>
 
 ---
 
-## Achievements
+<!-- Hall of Fame -->
+## 🏅 Hall of Fame & Responsible Disclosures
 
-- **OSCP+ Certified** at 16
-- Found Critical Bugs in:
-  - **NASA**
-  - **Sony**
-  - **Philips**
-  - **Quick Heal**
-  - **Trend Micro**
-- Active player in **CTFs** with team **0bug**
+I've had the privilege of being acknowledged by some of the world's leading organizations for securing their assets:
 
-## Let’s Connect
-
-<p align="left">
-  <a href="https://linkedin.com/in/aryan-jaiswal-57b42a218"><img src="https://img.shields.io/badge/-Aryan%20Jaiswal-blue?style=flat&logo=linkedin"></a>
-  <a href="mailto:aryan351985@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white"></a>
-  <a href="https://twitter.com/aryan351985"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"></a>
-  <a href="https://tryhackme.com/p/NovA"><img src="https://img.shields.io/badge/-TryHackMe-E5E5E5?style=flat&logo=tryhackme"></a>
-</p>
+- **NASA**
+- **Sony**
+- **Philips**
+- **Quick Heal**
+- **Trend Micro**
+- ... and 45+ others!
