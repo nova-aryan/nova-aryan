@@ -31,7 +31,7 @@ A 16-year-old Cybersecurity enthusiast from India 🇮🇳 with a passion for br
 <div align="center">
   <h2>🏆 Certifications 🏆</h2>
   <p>
-    <strong>OSCP+ | HTB Certified Bug Bounty Hunter | THM Pentest+</strong>
+    <strong>OSCP+ | HTB CBBH | THM PT1</strong>
   </p>
 </div>
 
