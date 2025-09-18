@@ -1,66 +1,74 @@
-# Hey, I'm Aryan Jaiswal
+# Aryan Jaiswal
 
-**Ethical Hacker | Bug Bounty Hunter | CTF Player | Cybersecurity Researcher**
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=33FF33&center=true&vCenter=true&width=500&lines=Ethical+Hacker+%7C+Bug+Bounty+Hunter;OSCP%2B+%7C+HTB+CBBH+%7C+THM+PT1+Certified;Hall+of+Fame+%40+NASA%2C+Sony%2C+Philips%2B;Currently+preparing+for+BSCP;Reverse+Engineering+%26+Malware+Dev)
-
----
-
-## 🌐 Connect With Me
+**Cybersecurity Researcher&nbsp;| Bug Bounty Hunter&nbsp;| Ethical Hacker&nbsp;| CTF Player**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aryan-jaiswal-57b42a218)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/aryan351985)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-88CC14?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/NovA)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/aryan351985)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryan351985@gmail.com)
 
 ---
 
-## 🛡️ About Me
+## About Me
 
-A 16-year-old Cybersecurity enthusiast from India 🇮🇳 with a passion for breaking code and building secure systems. I started my journey in 7th grade and haven't looked back since.
+I’m a 16-year-old cybersecurity researcher and bug bounty hunter from India with a strong focus on web application security and exploit development.  
+I have responsibly disclosed critical vulnerabilities in **40+ organizations (including NASA, Adobe, Philips)** and have been listed on several **Halls of Fame**.
 
-- 🚀 **Key Milestones:** Cracked **OSCP+** at 16 & found vulnerabilities in **50+ companies**, including NASA, Sony, and Philips.
-- 🎯 **Current Mission:** Deepening expertise in **Reverse Engineering** and **Malware Development**.
-- 📚 **Next Goal:** Preparing for the **Burp Suite Certified Practitioner (BSCP)** exam.
-
----
-
-## 🏆 Certifications
-
-**OSCP+** | **HTB CBBH** | **THM PT1** *(Junior Penetration Tester)*
+- **Current Focus:** Advanced web exploitation, reverse engineering, and malware development  
+- **Certifications:**  
+  - Burp Suite Certified Practitioner (**BSCP**) – PortSwigger  
+  - HackTheBox Certified Web Exploitation Specialist (**HTB CWES**)  
+  - TryHackMe Junior Penetration Tester (**THM PT1**)  
 
 ---
 
-## 💻 Skills & Expertise
+## Skills & Tools
 
-| Offensive Security           | Languages & Scripting    | Tools & Platforms          |
-|-------------------------------|----------------------------|------------------------------|
-| Web App Pentesting            | Python                     | Burp Suite, Wireshark         |
-| Network Penetration Testing   | Bash                       | Nmap, Metasploit               |
-| Reverse Engineering            | C/C++                       | Ghidra, IDA Pro                  |
-| Bug Bounty Hunting               | Assembly (x86)            | HackTheBox, TryHackMe          |
-| CTF Challenges                     |                                |                                       |
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+### Security Tools
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0040FF?style=for-the-badge&logo=nmap&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2A2A2A?style=for-the-badge&logo=metasploit&logoColor=white)
+![Ghidra](https://img.shields.io/badge/Ghidra-FF0000?style=for-the-badge&logo=ghidra&logoColor=white)
+![IDA Pro](https://img.shields.io/badge/IDA_Pro-4B275F?style=for-the-badge&logo=ida&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## Experience & Projects
+
+- **Security Intern – ScanInfoga Solutions Pvt. Ltd. (Jan–Jun 2024)**  
+  Performed vulnerability assessments, web penetration testing, and documentation of findings for multiple client systems.
+
+- **Tools & Research**  
+  - Python-based **XSS Automation Tool**  
+  - **403-bypass script** for web applications  
+  - Built a **secure Password Manager** to practice cryptography and secure coding
+
+---
+
+## Achievements
+
+- Reported **critical vulnerabilities** affecting millions of users across 40+ platforms  
+- Listed in Hall of Fame / acknowledgements of:  
+  **NASA, Adobe, Philips, Sony, Quick Heal, Trend Micro**, and many more  
+- Consistent recognition on bug bounty platforms (Bugcrowd, HackerOne)
+
+---
+
+## GitHub Stats
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aryanjaiswal&show_icons=true&theme=radical&rank_icon=github" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aryanjaiswal&theme=radical" />
 </p>
-
----
-
-## 🏅 Hall of Fame & Responsible Disclosures
-
-Acknowledged by top global organizations for reporting and fixing vulnerabilities:
-
-- NASA
-- Sony
-- Philips
-- Quick Heal
-- Trend Micro
-- ... and 45+ others!
 
 ---
