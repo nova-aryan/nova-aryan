@@ -12,10 +12,10 @@
 
 ## About Me
 
-I’m a 16-year-old cybersecurity researcher and bug bounty hunter from India with a strong focus on web application security and exploit development.  
+I’m a cybersecurity researcher and bug bounty hunter from India with a strong focus on web application security and exploit development.  
 I have responsibly disclosed critical vulnerabilities in **40+ organizations (including NASA, Adobe, Philips)** and have been listed on several **Halls of Fame**.
 
-- **Current Focus:** Advanced web exploitation, reverse engineering, and malware development  
+- **Current Focus:** Advanced web exploitation, reverse engineering, and source code review  
 - **Certifications:**  
   - Burp Suite Certified Practitioner (**BSCP**) – PortSwigger  
   - HackTheBox Certified Web Exploitation Specialist (**HTB CWES**)  
