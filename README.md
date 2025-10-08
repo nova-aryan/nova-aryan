@@ -32,7 +32,7 @@ I have responsibly disclosed critical vulnerabilities in **40+ organizations (in
 
 ### Security Tools
 ![BurpSuite](https://img.shields.io/badge/Burp_Suite-000000?style=for-the-badge&logo=portswigger&logoColor=white)
-![Caido](https://img.shields.io/badge/Caido-Tool-FF5733?style=for-the-badge&logo=caido&logoColor=white)
+![Caido](https://img.shields.io/badge/Caido-FF5733?style=for-the-badge&logo=caido&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-0040FF?style=for-the-badge&logo=nmap&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2A2A2A?style=for-the-badge&logo=metasploit&logoColor=white)
