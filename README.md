@@ -31,7 +31,7 @@ I have responsibly disclosed critical vulnerabilities in **40+ organizations (in
 </div>
 
 ### Security Tools
-![Burp Suite](https://raw.githubusercontent.com/nova-aryan/nova-aryan/refs/heads/main/icons8-burp-suite.svg)
+![BurpSuite](https://img.shields.io/badge/Burp_Suite-000000?style=for-the-badge&logo=portswigger&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-0040FF?style=for-the-badge&logo=nmap&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2A2A2A?style=for-the-badge&logo=metasploit&logoColor=white)
