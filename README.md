@@ -31,13 +31,13 @@ I have responsibly disclosed critical vulnerabilities in **40+ organizations (in
 </div>
 
 ### Security Tools
-![BurpSuite](https://img.shields.io/badge/Burp_Suite-000000?style=for-the-badge&logo=portswigger&logoColor=white)
-![Caido](https://img.shields.io/badge/Caido-FF5733?style=for-the-badge&logo=caido&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-0040FF?style=for-the-badge&logo=nmap&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2A2A2A?style=for-the-badge&logo=metasploit&logoColor=white)
-![Ghidra](https://img.shields.io/badge/Ghidra-FF0000?style=for-the-badge&logo=ghidra&logoColor=white)
-![IDA Pro](https://img.shields.io/badge/IDA_Pro-4B275F?style=for-the-badge&logo=ida&logoColor=white)
+![BurpSuite](https://cdn.brandfetch.io/idC7C956wH/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1744841067178)
+![Caido](https://cdn.brandfetch.io/idFdZwH_n_/w/500/h/500/theme/dark/logo.png?c=1bxid64Mup7aczewSAYMX&t=1756377823773)
+![Wireshark](https://cdn.brandfetch.io/idtNG2kbRU/w/512/h/512/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1752353891773)
+![Nmap](https://cdn.brandfetch.io/idKPgS4O0g/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1753966228656)
+![Metasploit](https://cdn.brandfetch.io/idFlREP4Jj/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1753515820590)
+![Ghidra](https://raw.githubusercontent.com/NationalSecurityAgency/ghidra/refs/heads/master/Ghidra/Features/Base/src/main/resources/images/GHIDRA_3.png)
+![IDA Pro](https://cdn.brandfetch.io/idkIKcQa2i/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1753111028092)
 
 ---
 
