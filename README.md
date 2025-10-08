@@ -27,7 +27,7 @@ I have responsibly disclosed critical vulnerabilities in **40+ organizations (in
 
 ### Programming Languages
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,javascript,cpp,php,java,mysql,mongodb" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,cpp,php,dotnet,java,mysql,mongodb"/>
 </div>
 
 ### Security Tools
