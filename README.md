@@ -27,8 +27,7 @@ I have responsibly disclosed critical vulnerabilities in **40+ organizations (in
 
 ### Programming Languages
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,flutter,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=python,javascript,cpp,php,java,sql,mongodb" />
 </div>
 
 ### Security Tools
